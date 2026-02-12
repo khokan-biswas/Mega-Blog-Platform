@@ -1,6 +1,6 @@
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
-import Container from "./container/container.jsx";
+import Container from "./container/Container.jsx";
 import Logo from "./Logo.jsx";
 import LogoutBtn from "./Header/LogOut.jsx";
 import Input from "./Input.jsx";
